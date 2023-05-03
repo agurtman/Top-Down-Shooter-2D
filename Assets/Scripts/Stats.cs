@@ -26,5 +26,6 @@ public static class Stats
     {
         Level = 1;
         score = 0;
+        Shop.money = 0;
     }
 }
